@@ -86,7 +86,7 @@ def player_turn() -> None:
 def computer_turn() -> None:
     print(" Computer's turn ...")
 
-    # Syntetic 'do-while' loop to calculate a valid move
+    # Synthetic 'do-while' loop to calculate a valid move
     while True:
         calculated_move = random.randint(1 , 9)
         if not BOARD.is_slot_occupied(calculated_move):
