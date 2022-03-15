@@ -27,5 +27,5 @@ class Board:
         self.slots[index - 1] = char
 
     def is_slot_occupied(self, index: int) -> bool:
-        # Return true if slot is occupied
+        # Return True if slot is occupied
         return True if self.slots[index - 1] != str(index) else False
