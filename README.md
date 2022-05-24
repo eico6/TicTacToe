@@ -8,7 +8,7 @@
 ## Technical Data
 - Author: Eivind Hobrad Naasen
 - Date: February 9th, 2022.
-- Version: Python 3.9.7
+- Language: Python 3.9.7
 
 ## Preview 
 ![](preview_tictactoe.gif)
