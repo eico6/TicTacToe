@@ -3,6 +3,14 @@
 - '\_\_main\_\_' module should be 'tictactoe.py'.
 - A Python interpreter compatible with Python 3.9.7 is required.
 
+## Technical Data
+- Author: Eivind Hobrad Naasen
+- Date: February 9th, 2022.
+- Language: Python 3.9.7
+
+## Preview 
+![](preview_tictactoe.gif)
+
 ## Debugging
 - Make sure all project files are located in the same directory.
 - If your default version is wrong, check your user/system variable 'Path' at environment variables.  
@@ -16,12 +24,3 @@
       In command-line, navigate to the same directory as your project files and write the following:  
       (1) py -3.9 tictactoe.py  
 
-
-
-## Technical Data
-- Author: Eivind Hobrad Naasen
-- Date: February 9th, 2022.
-- Language: Python 3.9.7
-
-## Preview 
-![](preview_tictactoe.gif)
