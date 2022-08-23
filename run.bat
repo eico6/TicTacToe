@@ -9,5 +9,5 @@ echo.
 python tictactoe.py
 echo.
 
-echo If something went wrong, check README.md.
+echo If something went wrong, check the "Debugging" section of "README.md".
 pause
