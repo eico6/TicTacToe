@@ -3,7 +3,7 @@
 - '\_\_main\_\_' module should be 'tictactoe.py'.
 - 'run.bat' will open the game in Windows Command Prompt. The batch file has to be executed from the same directory as the source files.
 - To run the batch file, you will need to have a Python interpreter installed compatible with Python 3.9.7.
-- To check your current version, open cmd and type "python --version".
+- Read the contents of 'run.bat' for more debugging.
 
 ## Technical Data
 - Author: Eivind Hobrad Naasen
