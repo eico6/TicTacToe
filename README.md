@@ -19,7 +19,8 @@
       (2) %USERPROFILE%\AppData\Local\Programs\Python\Python39\Scripts (Scripts for tools such as pip)  
 - Make sure you have a compatible version installed by writing "py --list" into command-line.  
       If no versions are found, add the following path:  
-      (1) %USERPROFILE%\AppData\Local\Programs\Python\Launcher  (Will also make your latest version the default version)  
+      (1) %USERPROFILE%\AppData\Local\Programs\Python\Launcher  
+      (Will also make your latest version the default version)  
 - If you don't want to switch your default Python version, you can manually run the appropriate version through command-line.  
       In command-line, navigate to the same directory as your project files and write the following:  
       (1) py -3.9 tictactoe.py  
